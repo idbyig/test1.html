@@ -5,7 +5,7 @@
 </title>
 
 <body>
-<h1> This is my first website </h1>
+<H1> This is my first website </H1>
 <body>
 
 <style>
