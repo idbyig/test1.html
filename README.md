@@ -5,7 +5,7 @@
 </title>
 
 <body>
-<h1>This is my first website</h1>
+<h1> This is my first website </h1>
 <body>
 
 <style>
@@ -14,4 +14,4 @@ background-color:green;
 color:#fff;
 text-align:center;
 }
-</html>
+<html>
