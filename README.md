@@ -1,1 +1,17 @@
 
+<html>
+  <title>
+    First website
+</title>
+
+<body>
+</h1>This is my first website</h1>
+<body>
+
+<style>
+body {
+background-color:green;
+color:#fff;
+text-align:center;
+}
+</html>
